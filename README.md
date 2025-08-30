@@ -23,5 +23,7 @@ A responsive **Hotel Booking Website frontend** built with **React**, allowing u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashuaanshu/Hotel_Booking
-   cd hotel-booking
+   git clone https://github.com/ashuaanshu/Hotel-Booking-Frontend.git
+   cd Hotel-Booking-Frontend
+   '''
+   
