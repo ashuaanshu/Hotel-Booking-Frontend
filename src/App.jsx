@@ -6,7 +6,7 @@ import Rooms from "./Component/Rooms";
 import RoomDetail from "./Component/RoomDetail";
 import About from "./Component/About";
 import Contact from "./Component/Contact";
-import BookNow from "./Component/Booknow";
+import BookNow from "./Component/BookNow";
 import Footer from "./Component/Footer";
 
 function App() {
